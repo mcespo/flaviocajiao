@@ -27,7 +27,7 @@
       >
         <img
           class="aspect-[3/2] w-full bg-gray-50 object-cover lg:absolute lg:inset-0 lg:aspect-auto lg:h-full"
-          src="./../assets/flavio-office-front.jpg"
+          src="./../assets/dr-flavio-cajiao-front-entrance.jpg"
           alt=""
         />
       </div>
