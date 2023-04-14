@@ -67,7 +67,7 @@
                   aria-hidden="true"
                 />
               </dt>
-              <dd>545 Mavis Island<br />Chicago, IL 99191</dd>
+              <dd>6033 W Belmont Ave<br />Chicago, IL 60634</dd>
             </div>
             <div class="flex gap-x-4">
               <dt class="flex-none">
@@ -75,8 +75,8 @@
                 <PhoneIcon class="h-7 w-6 text-gray-400" aria-hidden="true" />
               </dt>
               <dd>
-                <a class="hover:text-gray-900" href="tel:+1 (555) 234-5678"
-                  >+1 (555) 234-5678</a
+                <a class="hover:text-gray-900" href="tel:+1 (872) 256-5966"
+                  >+1 (872) 256-5966</a
                 >
               </dd>
             </div>
@@ -97,103 +97,7 @@
           </dl>
         </div>
       </div>
-      <form
-        action="#"
-        method="POST"
-        class="px-6 pb-24 pt-20 sm:pb-32 lg:px-8 lg:py-48"
-      >
-        <div class="mx-auto max-w-xl lg:mr-0 lg:max-w-lg">
-          <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
-            <div>
-              <label
-                for="first-name"
-                class="block text-sm font-semibold leading-6 text-gray-900"
-                >First name</label
-              >
-              <div class="mt-2.5">
-                <input
-                  type="text"
-                  name="first-name"
-                  id="first-name"
-                  autocomplete="given-name"
-                  class="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
-                />
-              </div>
-            </div>
-            <div>
-              <label
-                for="last-name"
-                class="block text-sm font-semibold leading-6 text-gray-900"
-                >Last name</label
-              >
-              <div class="mt-2.5">
-                <input
-                  type="text"
-                  name="last-name"
-                  id="last-name"
-                  autocomplete="family-name"
-                  class="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
-                />
-              </div>
-            </div>
-            <div class="sm:col-span-2">
-              <label
-                for="email"
-                class="block text-sm font-semibold leading-6 text-gray-900"
-                >Email</label
-              >
-              <div class="mt-2.5">
-                <input
-                  type="email"
-                  name="email"
-                  id="email"
-                  autocomplete="email"
-                  class="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
-                />
-              </div>
-            </div>
-            <div class="sm:col-span-2">
-              <label
-                for="phone-number"
-                class="block text-sm font-semibold leading-6 text-gray-900"
-                >Phone number</label
-              >
-              <div class="mt-2.5">
-                <input
-                  type="tel"
-                  name="phone-number"
-                  id="phone-number"
-                  autocomplete="tel"
-                  class="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
-                />
-              </div>
-            </div>
-            <div class="sm:col-span-2">
-              <label
-                for="message"
-                class="block text-sm font-semibold leading-6 text-gray-900"
-                >Message</label
-              >
-              <div class="mt-2.5">
-                <textarea
-                  name="message"
-                  id="message"
-                  rows="4"
-                  class="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
-                />
-              </div>
-            </div>
-          </div>
-          <div class="mt-8 flex justify-end">
-            <button
-              type="submit"
-              class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-            >
-              Send message
-            </button>
-          </div>
-        </div>
-      </form>
+      <iframe class="w-full h-full" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11871.552332925097!2d-87.7775055!3d41.9382562!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fcd7a80477a5b%3A0xad823ac396ecc823!2sFlavio%20Cajiao%2C%20DDS!5e0!3m2!1sen!2sus!4v1681449039233!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
   </div>
 </template>
